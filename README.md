@@ -1,4 +1,4 @@
-Коммит 1 - КОПИЯ =)
+Коммит 2 - КОПИЯ =))
 
 <p align="center">
   <a href="https://github.com/kettanaito/naming-cheatsheet">
