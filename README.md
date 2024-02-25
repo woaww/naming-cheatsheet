@@ -1,4 +1,4 @@
-Коммит 1 - Ветка 1
+Коммит 2 - Ветка 1
 
 <p align="center">
   <a href="https://github.com/kettanaito/naming-cheatsheet">
